@@ -33,8 +33,8 @@
                 li.classList.toggle('completed');
             };
 
-        //     // Append the remove button to the list item
-        //     li.appendChild(removeButton);
+            // Append the remove button to the list item
+            li.appendChild(removeButton);
 
         //     // Append the list item to the task list
         //     taskList.appendChild(li);
