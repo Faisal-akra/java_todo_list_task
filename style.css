@@ -40,13 +40,13 @@ h1 {
 
 #taskInput:focus {
     border-color: crimson;
-}
+} 
 
-/* Button styling */
+
 button {
     padding: 10px 20px;
-    background-color: crimson;
-    color: white;
+    background-color: yellow;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
