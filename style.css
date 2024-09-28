@@ -22,7 +22,7 @@
 
 /* Title styling */
 h1 {
-    color: #4a90e2;
+    color: crimson;
     font-size: 24px;
     margin-bottom: 20px;
 }
@@ -39,13 +39,13 @@ h1 {
 }
 
 #taskInput:focus {
-    border-color: #4a90e2;
+    border-color: crimson;
 }
 
 /* Button styling */
 button {
     padding: 10px 20px;
-    background-color: #4a90e2;
+    background-color: crimson;
     color: white;
     border: none;
     border-radius: 5px;
@@ -55,7 +55,8 @@ button {
 }
 
 button:hover {
-    background-color: #357ab8;
+    background-color: yellow;
+    color: black;
 }
 
 /* Task list styling */
