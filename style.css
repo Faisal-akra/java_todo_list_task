@@ -86,7 +86,7 @@ li:hover {
 }
 
 /* Completed tasks */
-.completed {
+.cls {
     text-decoration: line-through;
     color: grey;
 }
